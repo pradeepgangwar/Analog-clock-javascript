@@ -1,0 +1,32 @@
+/* Styling for our Clock canvas*/
+
+canvas{
+	background-color : #ff80df;
+	display : block;
+	margin : 0 auto;
+	box-shadow : 10px 10px pink;
+	border : 1px solid black;
+}
+
+img{
+	margin : 0px 15px 0px 15px;
+}
+
+.heading{
+	margin-bottom: 30px;
+	height : 250px;
+	text-align: center;
+	font-size: 30px;
+	background-color : #1E90FF;
+	border: 1px solid black;
+}
+
+.footer{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	height : 220px;
+	text-align: center;
+	font-size: 29px;
+	background-color : #FFD700;
+	border: 1px solid black;
+}
